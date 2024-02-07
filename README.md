@@ -4,7 +4,7 @@ This is a simple weather checker application that allows users to check the weat
 
 ## How to Use
 
-To use this application, you will need to obtain an API key from OpenWeatherMap. Once you have your API key, replace the value of `apiKey` in the `index.js` file with your own API key.
+To use this application, you will need to obtain an API key from OpenWeatherMap. Once you have your API key, replace the value of `apiKey` in the `script.js` file with your own API key.
 
 ```javascript
 const apiKey = "YOUR_API_KEY";
