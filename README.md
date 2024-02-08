@@ -26,7 +26,7 @@ const apiKey = "YOUR_API_KEY";
 
 To install and run this application locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/AliNAbadian/1st-Project-js.git`
+1. Clone this repository: `git clone https://github.com/AliNAbadian/weather-checker-app.git`
 2. Navigate to the project directory.
 3. Replace `YOUR_API_KEY` in the `script.js` file with your OpenWeatherMap API key.
 4. Open `index.html` in your web browser.
